@@ -24,3 +24,9 @@
 <br>
 <br>
 ✅  Functions
+<br>
+<br>
+✅ Lists
+<br>
+✅ Dictionaries
+<br>
