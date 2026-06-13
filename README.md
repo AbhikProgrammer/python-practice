@@ -28,5 +28,17 @@
 <br>
 ✅ Lists
 <br>
+<br>
 ✅ Dictionaries
 <br>
+<br>
+✅ File Handling
+<br>
+<br>
+✅ Error Handling
+<br>
+<br>
+✅ Modules
+<br>
+<br>
+✅ GitHub Workflow
